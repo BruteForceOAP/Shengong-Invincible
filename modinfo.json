@@ -3,8 +3,8 @@
     {
       "name": "BF_Shengong_Invincible",
       "author": "BruteForceOAP",
-      "version": "1.4",
-      "compatibility": "w68",
+      "version": "1.4.1",
+      "compatibility": "w67",
       "description": "Gives both Shendong Envirosuits major buffs to make you almost invincible",
       "files": {
         "pak": "https://github.com/BruteForceOAP/Shengong-Invincible/raw/main/BF_Shengong_Invincible_P.pak",
