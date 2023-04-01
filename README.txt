@@ -1,7 +1,7 @@
 # Shengong-Invincible
 Icarus Mod - makes Shengong Envirosuit invincible (almost)
 
-Version: 1.4.0
+Version: 1.4.x
  
 Extra 12 backpack slots
 Weight Capacity +2,000kg
