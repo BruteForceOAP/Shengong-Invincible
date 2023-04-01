@@ -1,0 +1,52 @@
+{
+    "name": "Shengong_Invincible",
+    "author": "BruteForce",
+    "version": "1.0",
+    "fileName": "BF_Shengong_Invincible",
+    "imageURL": "",
+    "readmeURL": "https://github.com/BruteForcOAP/Shengong_Invincible/README.txt",
+    "description": "Stats on Shengong Undersuit drastically improved",
+    "ModName": "BF_ShengongArmour_V1.2",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Traits-D_Armour.json",
+            "File_Items": [
+                {
+                    "Name": "Undersuit_Shengong",
+                    "StatsGranted": {
+                        "(Value=\"BaseHealthRegen_+%\")": 1500,
+                        "(Value=\"BaseChanceToFellTreeInstantly_%\")": 25,
+                        "(Value=\"BaseChanceToMineVoxelInstantly_+%\")": 25,
+                        "(Value=\"BaseWeightCapacity_+%\")": 1000,
+                        "(Value=\"BaseStealthDamage_+%\")": 15,
+                        "(Value=\"BaseMiningRewards_%\")": 25,
+                        "(Value=\"BaseFellingRewards_%\")": 25,
+                        "(Value=\"BaseStaminaRegen_+%\")": 300,
+                        "(Value=\"BaseMaximumStamina_+\")": 1000,
+                        "(Value=\"BaseMaximumHealth_+\")": 10000,
+                        "(Value=\"BaseMovementSpeed_+%\")": 30,
+                        "(Value=\"BasePoisonDamageResistance_+%\")": 2500,
+                        "(Value=\"BaseStaminaConsumed_+%\")": -100,
+                        "(Value=\"BaseFoodConsumptionPerMinute_+\")": -100,
+                        "(Value=\"BaseWaterConsumptionPerMinute_+\")": -100,
+                        "(Value=\"BaseBackpackSlots_+\")": 12,
+                        "(Value=\"BaseOxygenConsumptionPerMinute_+\")": -140,
+                        "(Value=\"BaseColdResistance_%\")": 35,
+                        "(Value=\"BaseArcticMovementSpeed_+%\")": 35,
+                        "(Value=\"BaseExposureResistance_+%\")": 35,
+                        "(Value=\"BaseAnimalThreatModifier_+%\")": -35,
+                        "(Value=\"BaseArcticExposureResistance_+%\")": 35,
+                        "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+                        "(Value=\"BaseFallDamageResistance_%\")": 40,
+                        "(Value=\"BaseChanceToResistSprain_%\")": 50,
+                        "(Value=\"BaseHeatResistance_%\")": 30
+									}
+				}
+						]
+		},
+        {
+            "CurrentFile": "EndOfMod"
+        }
+			]
+}
